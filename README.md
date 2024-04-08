@@ -8,4 +8,3 @@ Untuk menggunakan tools cek server
 2. buat file untuk inputIp.txt untuk penginputan ip simpan di /root/
 3. masukkan list ip pada inputIp.txt, kemudian save
 4. running file cek hdsentinel.py
-5. kemudian lihat hasilnya pada https://docs.google.com/spreadsheets/d/1x4Rh5K1n7iL8dcIwJR-0yVsvU64K58-qERMen2yy9oY/edit?usp=sharing
